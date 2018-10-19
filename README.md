@@ -4,13 +4,13 @@ MatLab 2016a
 
 latent low-rank representation
 
-### Fusion framework
+## Fusion framework
 ![](https://github.com/exceptionLi/imagefusion_deepdecomposition/blob/master/figures/framework.png)
 
-### Latent Low-Rank Representation
+## Latent Low-Rank Representation
 ![](https://github.com/exceptionLi/imagefusion_deepdecomposition/blob/master/figures/latentlrr.png)
 
-### Deep decomposition with project matrix
+## Deep decomposition with project matrix
 ![](https://github.com/exceptionLi/imagefusion_deepdecomposition/blob/master/figures/decomposition.png)
 
 
