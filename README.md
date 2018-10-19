@@ -1,1 +1,1 @@
-# imagefusion_deepdecomposition
+# Infrared and visible image fusion based on a deep decomposition method
