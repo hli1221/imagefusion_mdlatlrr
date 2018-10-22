@@ -27,7 +27,7 @@ if is_overlap==1
         % reconstruction
         for ii=1:t1-unit+1
             for jj=1:t2-unit+1
-                temp = temp_vector(:,(ii-1)*(t1-unit+1)+jj);
+                temp = temp_vector(:,(ii-1)*(t2-unit+1)+jj);
                 I_d_temp(ii:(unit+ii-1), jj:(unit+jj-1)) = I_d_temp(ii:(unit+ii-1), jj:(unit+jj-1)) + reshape(temp, [unit unit]);
             end
         end
