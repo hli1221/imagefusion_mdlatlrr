@@ -16,7 +16,7 @@ if is_overlap == 1
     for i=1:t1-unit+1
         for j=1:t2-unit+1
             temp = img(i:(unit+i-1), j:(unit+j-1));
-            temp_vector(:,(i-1)*(t1-unit+1)+j) = temp(:);
+            temp_vector(:,(i-1)*(t2-unit+1)+j) = temp(:);
             % record the overlapping number
             count_matric(i:(unit+i-1), j:(unit+j-1)) =...
                 count_matric(i:(unit+i-1), j:(unit+j-1)) + ones_matric(i:(unit+i-1), j:(unit+j-1));
@@ -28,7 +28,7 @@ if is_overlap == 1
     % reconstruction
     for i=1:t1-unit+1
         for j=1:t2-unit+1
-            temp = temp_vector(:,(i-1)*(t1-unit+1)+j);
+            temp = temp_vector(:,(i-1)*(t2-unit+1)+j);
             I_d(i:(unit+i-1), j:(unit+j-1)) = I_d(i:(unit+i-1), j:(unit+j-1)) + reshape(temp, [unit unit]);
         end
     end
