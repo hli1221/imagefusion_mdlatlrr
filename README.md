@@ -12,7 +12,7 @@ latent low-rank representation
 
 ## Deep decomposition with project matrix
 ![](https://github.com/exceptionLi/imagefusion_deepdecomposition/blob/master/figures/decomposition.png)
-
+![](https://github.com/exceptionLi/imagefusion_deepdecomposition/blob/master/figures/DDLatLrr.png)
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
