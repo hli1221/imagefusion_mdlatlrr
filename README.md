@@ -1,5 +1,7 @@
 # Infrared and visible image fusion based on a deep decomposition method
 
+Li H, Wu X J. Infrared and visible image fusion based on a deep decomposition method[J]. arXiv preprint arXiv:1811.02291, 2018. (https://arxiv.org/abs/1811.02291)
+
 MatLab 2016a
 
 latent low-rank representation
