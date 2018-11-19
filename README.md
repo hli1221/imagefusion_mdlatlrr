@@ -1,6 +1,6 @@
 # DDLatLRR: A novel decomposition method for infrared and visible image fusion
 
-Li H, Wu X J., Kittler J. DDLatLRR: A novel decomposition method for infrared and visible image fusion[J]. arXiv preprint arXiv:1811.02291, 2018. (https://arxiv.org/abs/1811.02291)
+% Li H, Wu X J., Kittler J. DDLatLRR: A novel decomposition method for infrared and visible image fusion[J]. arXiv preprint arXiv:1811.02291, 2018. (https://arxiv.org/abs/1811.02291)
 
 MatLab 2016a
 
