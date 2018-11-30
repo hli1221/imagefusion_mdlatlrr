@@ -26,7 +26,7 @@ For code:
 ```
 @misc{li2018IVimagefusion_deeplearning,
     author = {Hui Li},
-    title = {CODE: Infrared and visible image fusion based on a deep decomposition method},
+    title = {CODE: DDLatLRR_A novel decomposition method for infrared and visible image fusion},
     year = {2018},
     publisher = {GitHub},
     journal = {GitHub repository},
