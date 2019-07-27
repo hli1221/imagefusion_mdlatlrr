@@ -8,20 +8,21 @@ latent low-rank representation
 ![](https://github.com/hli1221/imagefusion_deepdecomposition/blob/master/figures/framework.png)
 
 ## Latent Low-Rank Representation
-![](https://github.com/hli1221/imagefusion_deepdecomposition/blob/master/figures/latentlrr.png)
+//  ![](https://github.com/hli1221/imagefusion_deepdecomposition/blob/master/figures/latentlrr.png)
 
 ## Deep decomposition with Latent LRR
 
 ### DLatLRR
-![](https://github.com/hli1221/imagefusion_deepdecomposition/blob/master/figures/decomposition.png)
+// ![](https://github.com/hli1221/imagefusion_deepdecomposition/blob/master/figures/decomposition.png)
 
 ### DDLatLRR
-![](https://github.com/hli1221/imagefusion_deepdecomposition/blob/master/figures/DDLatLrr.png)
+// ![](https://github.com/hli1221/imagefusion_deepdecomposition/blob/master/figures/DDLatLrr.png)
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
 # Citation
 
+/*
 For code:
 ```
 @misc{li2018IVimagefusion_deeplearning,
@@ -33,3 +34,4 @@ For code:
     howpublished = {\url{https://github.com/hli1221/imagefusion_deepdecomposition}}
   }
 ```
+*/
