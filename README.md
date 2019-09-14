@@ -1,4 +1,4 @@
-# DDLatLRR: A novel decomposition method for infrared and visible image fusion
+# MDLatLRR: A novel decomposition method for infrared and visible image fusion
 
 MatLab 2016a
 
