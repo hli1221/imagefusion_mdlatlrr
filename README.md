@@ -15,11 +15,10 @@ MatLab 2016a
 
 ## Multi-level decomposition with Latent LRR
 
-### DLatLRR
-<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/DLatLRR.png" width="600">
+### DLatLRR and MDLatLRR
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/DLatLRR.png" width="500">
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/MDLatLRR.png" width="500">
 
-### DDLatLRR
-<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/MDLatLRR.png" width="600">
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
