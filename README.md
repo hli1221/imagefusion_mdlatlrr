@@ -23,6 +23,7 @@ MatLab 2016a
 
 
 ## MDLatLRR for RGBT visual object tracking
+The VOT-RGBT2019 sub-challenge benchmark is available at [here](http://www.votchallenge.net/vot2019/dataset.html).
 The frames fused by MDLatLRR are fed into two trackers ([LADCF](https://github.com/XU-TIANYANG/LADCF), [GFSDCF](https://github.com/XU-TIANYANG/GFS-DCF)).
 
 The frames in first row and second row are selected from 'car10' and 'car41' (VOT-RGBT 2019), respectively. 
