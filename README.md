@@ -5,7 +5,7 @@ In 'main.m' file, you will find how to run these codes.
 
 ## Platform
 
-MatLab 2016a
+MATLAB R2017b on 2.8 GHz Intel(R) Core(TM) i5-8400 CPU with 16 GB RAM.
 
 ## Fusion framework
 ![](https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/framework.png)
