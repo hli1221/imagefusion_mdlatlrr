@@ -1,8 +1,8 @@
 # MDLatLRR: A novel decomposition method for infrared and visible image fusion
 
-MatLab 2016a
+## Platform
 
-latent low-rank representation
+MatLab 2016a
 
 ## Fusion framework
 
