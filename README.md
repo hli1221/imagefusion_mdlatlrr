@@ -16,8 +16,17 @@ MatLab 2016a
 ## Multi-level decomposition with Latent LRR
 
 ### DLatLRR and MDLatLRR
-<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/DLatLRR.png" width="500">
-<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/MDLatLRR.png" width="500">
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/DLatLRR.png" width="600">
+
+### MDLatLRR
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/MDLatLRR.png" width="600">
+
+
+## MDLatLRR for RGBT visual object tracking
+The frames fused by MDLatLRR are fed into two trackers ([LADCF](https://github.com/XU-TIANYANG/LADCF), [GFSDCF](https://github.com/XU-TIANYANG/GFS-DCF))
+
+![](https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/rgbt-label-all.png)
+
 
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
