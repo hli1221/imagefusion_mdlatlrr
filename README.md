@@ -47,12 +47,8 @@ For code:
 ```
 @misc{li2019mdlatlrr,
     author = {Hui Li},
-    title = {CODE: MDLatLRR: A novel decomposition method for infrared and visible image fusion},
-    year = {2019},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/hli1221/imagefusion_mdlatlrr}}
+    title = {Codes for MDLatLRR},
+    year = 2019,
+    note = {\url{https://github.com/hli1221/imagefusion_mdlatlrr}},
   }
 ```
-
-
