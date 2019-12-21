@@ -1,7 +1,7 @@
 # MDLatLRR: A novel decomposition method for infrared and visible image fusion
 
 ## Note
-In 'main.py' file, you will find how to run these codes.
+In 'main.m' file, you will find how to run these codes.
 
 ## Platform
 
@@ -11,15 +11,15 @@ MatLab 2016a
 ![](https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/framework.png)
 
 ## Latent Low-Rank Representation
-![](https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/latentlrr.png)
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/latentlrr.png" width="600">
 
 ## Multi-level decomposition with Latent LRR
 
 ### DLatLRR
-![](https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/DLatLRR.png)
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/DLatLRR.png" width="600">
 
 ### DDLatLRR
-![](https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/MDLatLRR.png).
+<img src="https://github.com/hli1221/imagefusion_mdlatlrr/blob/master/figures/MDLatLRR.png" width="600">
 
 If you have any question about this code, feel free to reach me(hui_li_jnu@163.com) 
 
