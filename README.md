@@ -1,5 +1,9 @@
 # MDLatLRR: A novel decomposition method for infrared and visible image fusion
 
+IEEE Trans. Image Process.
+
+doi: 10.1109/TIP.2020.2975984
+
 ## Note
 In 'main.m' file, you will find how to run these codes.
 
