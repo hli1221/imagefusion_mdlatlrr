@@ -46,13 +46,13 @@ If you have any question about this code, feel free to reach me(hui_li_jnu@163.c
 
 # Citation
 
-
-For code:
 ```
-@misc{li2019mdlatlrr,
-    author = {Hui Li},
-    title = {Codes for MDLatLRR},
-    year = 2019,
-    note = {\url{https://github.com/hli1221/imagefusion_mdlatlrr}},
-  }
+@article{li2020mdlatlrr,
+ author = {Li, Hui and Wu, Xiao-Jun and Kittler, Josef},
+ title = {MDLatLRR: A novel decomposition method for infrared and visible image fusion},
+ note = {doi: 10.1109/TIP.2020.2975984},
+ year = {2020},
+ journal = {IEEE Transactions on Image Processing},
+ publisher={IEEE}
+}
 ```
