@@ -1,5 +1,6 @@
 # MDLatLRR: A novel decomposition method for infrared and visible image fusion
 
+[Hui Li](https://hli1221.github.io/), Xiao-Jun Wu*, Josef Kittler  
 IEEE Trans. Image Process., 2020, doi: 10.1109/TIP.2020.2975984
 
 [IEEEXplore](https://ieeexplore.ieee.org/document/9018389)
