@@ -8,6 +8,8 @@ IEEE Trans. Image Process., 2020, doi: 10.1109/TIP.2020.2975984
 ## Note
 In 'main.m' file, you will find how to run these codes.
 
+In 'analysis' file, you will find the codes of evaluate metrics.
+
 ## Platform
 
 MATLAB R2017b on 2.8 GHz Intel(R) Core(TM) i5-8400 CPU with 16 GB RAM.
